@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 原本周易本義
-#+DATE: 2015-09-23 09:34:24
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 21:54:30.200806
+#+PROPERTY: ID KR1a0031
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0031_WYG_009-1a>¶
 欽定四庫全書¶
 　原本周易本義卷九¶
@@ -110,4 +112,3 @@
 　¶
 　¶
 　原本周易本義卷九¶
-
